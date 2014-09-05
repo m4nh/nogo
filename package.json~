@@ -1,0 +1,24 @@
+{
+  "name": "nogo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MDatabase.js",
+  "dependencies": {
+    "mongodb": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b4rc0ll0/nogo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b4rc0ll0/nogo/issues"
+  },
+  "homepage": "https://github.com/b4rc0ll0/nogo"
+}
